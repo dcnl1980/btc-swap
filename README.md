@@ -5,7 +5,7 @@
 
 ## Installation
 ```
-npm install --save etherex/btc-swap
+npm install --save dcnl1980/btc-swap
 ```
 
 ## Usage
