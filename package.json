@@ -19,9 +19,9 @@
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/etherex/btc-swap/issues"
+    "url": "https://github.com/dcnl1980/btc-swap/issues"
   },
-  "homepage": "https://github.com/etherex/btc-swap#readme",
+  "homepage": "https://github.com/dcnl1980/btc-swap#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
